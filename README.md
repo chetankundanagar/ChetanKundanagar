@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__chetan__1406?igsh=MTBrYzFnNTNiaTc1cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chetan-kundanagar-76110b335/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJ0P%2BoYYuTUOSHFe28kKKQg%3D%3D) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Chetan Kundanagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetankundangar@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__chetan__1406?igsh=MTBrYzFnNTNiaTc1cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chetan-kundanagar-76110b335/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJ0P%2BoYYuTUOSHFe28kKKQg%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetankundangar@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chetankundanagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=chetankundanagar&theme=dark&hide_border=false)<br/>
